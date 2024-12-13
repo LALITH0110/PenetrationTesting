@@ -1,0 +1,10 @@
+.scan-results-container {
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.scan-results-header {
+  color: #062c30;
+}

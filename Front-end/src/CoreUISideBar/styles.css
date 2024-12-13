@@ -1,0 +1,12 @@
+.custom-navbar-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: whitesmoke;
+  padding-left: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+.nav-item-bottom {
+  margin-top: auto;
+}

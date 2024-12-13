@@ -1,0 +1,31 @@
+.profile-container {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+}
+
+.profile-image {
+  margin-left: 15px;
+}
+
+.profile-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 3px;
+}
+
+.profile-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #e0e7e9;
+}
+
+.profile-date {
+  font-size: 1rem;
+  color: #e0e7e9;
+}

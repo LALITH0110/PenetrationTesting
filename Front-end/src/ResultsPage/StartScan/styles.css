@@ -1,0 +1,11 @@
+.new-scan-input-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.ip-text-container {
+  width: 400px;
+}
