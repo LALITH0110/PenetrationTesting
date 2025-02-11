@@ -3,7 +3,7 @@
 This is an advanced machine-learning web exploit framework designed for real-time domain scanning, CVE identification, vulnerability detection, and automated exploitation. This tool also provides actionable security recommendations, including cost analysis and prevention strategies.
 
 ## Features
-* Real-time domain scanning: Scan domains for vulnerabilities across multiple ports and protocols.
+* **Real-time domain scanning:** Scan domains for vulnerabilities across multiple ports and protocols.
 * CVE identification and vulnerability detection: Identify critical, medium, and low-severity vulnerabilities with detailed CVE references.
 * Automated exploitation: Exploit detected vulnerabilities for penetration testing purposes.
 * Actionable recommendations for remediation: Security measures with cost analysis and prevention strategies.
