@@ -45,7 +45,10 @@ npm start  # Start the frontend
 ## Usage
 * Enter a target domain for scanning.
 * Wait for the output (takes 5-15 min).
-* View identified CVEs and vulnerabilities.
+* View detailed results in different tabs:
+  * Total vulnerabilities detected.
+  * Severity breakdown (Critical/Medium/Low).
+  * Vulnerabilities by port and protocol.
 * Analyze the risk and recommended security measures.
 * Use actionable insights to secure the domain.
 
