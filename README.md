@@ -9,9 +9,39 @@ This is an advanced machine-learning web exploit framework designed for real-tim
 * Actionable recommendations for remediation
 * Cost analysis and prevention strategies
 
+## Installation
+### Prerequisites
+Ensure you have the following installed:
+* Python 3
+* Flask
+* Node.js & npm
+* MongoDB (if applicable for data storage)
 
+### Clone the Repository
+```
+git clone https://github.com/LALITH0110/PenetrationTesting.git
+```
 
-
+## Running the Application
+### Step 1: Start the Flask Backend
+Open a terminal and run:
+```
+cd backend
+sudo python3 main.py
+```
+### Step 2: Start the Frontend
+In another terminal tab, navigate to the frontend folder and run:
+```
+cd frontend
+npm install  # Install dependencies (first time setup)
+npm start  # Start the frontend
+```
+## Usage
+* Enter a target domain for scanning.
+* Wait for the output (takes 5-15 min).
+* View identified CVEs and vulnerabilities.
+* Analyze the risk and recommended security measures.
+* Use actionable insights to secure the domain.
 
 
 # Extra resources
