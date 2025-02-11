@@ -15,6 +15,8 @@ This is an advanced machine-learning web exploit framework designed for real-tim
   * Vulnerabilities per port visualization.
   * Clean ports tracking.
 
+![Uploading Screenshot_2024-10-28_at_1.49.43_PM.png…]() ![Uploading Screenshot_2024-10-28_at_1.49.05_PM.png…]()
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
