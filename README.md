@@ -1,5 +1,13 @@
 # PenetrationTesting
 
+This is an advanced machine-learning web exploit framework designed for real-time domain scanning, CVE identification, vulnerability detection, and automated exploitation. This tool also provides actionable security recommendations, including cost analysis and prevention strategies.
+
+## Features
+* Real-time domain scanning
+* CVE identification and vulnerability detection
+* Automated exploitation of detected vulnerabilities
+* Actionable recommendations for remediation
+* Cost analysis and prevention strategies
 
 
 # Extra resources
