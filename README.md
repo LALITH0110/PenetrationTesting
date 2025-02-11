@@ -10,8 +10,8 @@ This is an advanced machine-learning web exploit framework designed for real-tim
 * Cost analysis and prevention strategies
 * Detailed Vulnerability Tables: Interactive tables displaying service versions, severity levels, and associated CVEs.
 * Interactive Dashboard:
-** Total vulnerabilities summary.
-** Severity distribution (Critical, Medium, Low).
+* * Total vulnerabilities summary.
+* * Severity distribution (Critical, Medium, Low).
 Vulnerabilities per port visualization.
 Clean ports tracking.
 
