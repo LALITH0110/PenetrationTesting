@@ -22,7 +22,7 @@ This is an advanced machine-learning web exploit framework designed for real-tim
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-* Python 3
+* Python with suitable packages (check requirements.txt)
 * Flask
 * Node.js & npm
 * MongoDB (if applicable for data storage)
