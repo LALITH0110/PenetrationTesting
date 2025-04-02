@@ -133,7 +133,8 @@ responseFormat = {
 
 def calculate_tokens(text):
     # Calculates the approximate token count for the given text.
-    encoding = tiktoken.encoding_for_model("gpt-4o-2024-08-06")
+    # encoding = tiktoken.encoding_for_model("gpt-4o-2024-08-06")
+    encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-1106")
     tokens = encoding.encode(text)
     return len(tokens)
 

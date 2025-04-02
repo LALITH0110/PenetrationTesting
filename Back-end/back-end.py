@@ -38,10 +38,13 @@ CORS(app)  # Enable CORS for all routes
 # MongoDB connection with retry mechanism
 def connect_to_mongo():
     max_retries = 5
+    mongo_uri = os.getenv("MONGO_URI")
+    if not mongo_uri:
+        raise ValueError("Environment variable MONGO_URI is not set")
     for i in range(max_retries):
         try:
             client = MongoClient(
-                "mongodb+srv://joshipro:Joshipro12@cluster0.xkfo8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+                mongo_uri,
                 tls=True,
                 tlsAllowInvalidCertificates=True
             )
