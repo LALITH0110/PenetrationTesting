@@ -48,7 +48,7 @@ npm start  # Start the frontend
 ```
 ## Usage
 * Enter a target domain for scanning.
-* Wait for the output (takes 5-15 min).
+* Wait for the output (takes 5-15 min)
 * View detailed results in different tabs:
   * Total vulnerabilities detected.
   * Severity breakdown (Critical/Medium/Low).
