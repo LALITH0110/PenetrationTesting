@@ -36,13 +36,13 @@ git clone https://github.com/LALITH0110/PenetrationTesting.git
 ### Step 1: Start the Flask Backend
 Open a terminal and run:
 ```
-cd backend
-sudo python3 main.py
+cd back-end
+sudo python3 back-end.py
 ```
 ### Step 2: Start the Frontend
 In another terminal tab, navigate to the frontend folder and run:
 ```
-cd frontend
+cd front-end
 npm install  # Install dependencies (first time setup)
 npm start  # Start the frontend
 ```
