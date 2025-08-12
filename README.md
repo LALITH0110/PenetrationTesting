@@ -27,7 +27,7 @@ Ensure you have the following installed:
 * Node.js & npm
 * MongoDB (if applicable for data storage)
 
-### Clone the Repository
+### Clone the Repositor
 ```
 git clone https://github.com/LALITH0110/PenetrationTesting.git
 ```
